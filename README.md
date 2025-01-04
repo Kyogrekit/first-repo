@@ -3,7 +3,7 @@
 ## My name is Cat 
 ![cat image]()
 
-** I'm javascript developer.** *there is example*
+**I'm javascript developer.** *there is example*
 
 ```js
 let isAlive = true;
@@ -19,6 +19,6 @@ alert('Hello ,World!');
 ```
 
 This is unordered list;
-*[my facebook](https://some-url.com)
-*[my website](https://some-url.com)
-*[my telegram](https://some-url.com)
+* [my facebook](https://some-url.com)
+* [my website](https://some-url.com)
+* [my telegram](https://some-url.com)
